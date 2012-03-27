@@ -1,3 +1,5 @@
+(Forked by tablatom -- this version does not pollute the global namespace)
+
 = Commander
 
 The complete solution for Ruby command-line executables. 
